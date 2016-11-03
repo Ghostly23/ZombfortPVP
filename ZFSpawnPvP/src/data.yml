@@ -1,0 +1,89 @@
+pvp:
+  teams:
+    nord:
+      punktzahl: 0
+      member:
+      tower: 3
+      flag: false
+      spawn:
+    ost:
+      punktzahl: 0
+      member:
+      tower: 3
+      flag: false
+      spawn:
+    sued:
+      punktzahl: 0
+      member:
+      tower: 3
+      flag: false
+      spawn:
+    west:
+      punktzahl: 0
+      member:
+      tower: 3
+      flag: false
+      spawn:
+  player:
+    Demoplayer:
+      team: nord
+      kills: 9001
+      skills:
+        jump:
+          used: 15
+  positions:
+    mid:
+      base:
+    team:
+      nord:
+        base:
+        t1:
+        t2:
+        t3:
+        specials:
+          wall1:
+            bcount: 5
+            coord1:
+            coord2:
+            coord3:
+            coord4:
+            coord5:
+      ost:
+        base:
+        t1:
+        t2:
+        t3:
+        specials:
+          wall1:
+            bcount: 5
+            coord1:
+            coord2:
+            coord3:
+            coord4:
+            coord5:
+      sued:
+        base:
+        t1:
+        t2:
+        t3:
+        specials:
+          wall1:
+            bcount: 5
+            coord1:
+            coord2:
+            coord3:
+            coord4:
+            coord5:
+      west:
+        base:
+        t1:
+        t2:
+        t3:
+        specials:
+          wall1:
+            bcount: 5
+            coord1:
+            coord2:
+            coord3:
+            coord4:
+            coord5:

@@ -1,0 +1,7 @@
+main: com.ghostly23.zfspawnpvp.ZFSpawnPvP
+version: 0.0
+name: ZFSpawnPvP
+
+commands:
+  setflagpos:
+    description: Sets flag posistions /cmd team/mid base/t1-3
